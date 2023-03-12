@@ -18,7 +18,7 @@ Two HTML form servers are used to hold the data after the form is submitted.
 
 <ul>
     
-<li><a href="https://github.com/Abdelrahmanhassan1/Web-Fundamentals/tree/main/Session%201%20-%20HTML/Google2006%20Clone">getform server</a></li>
-<li><a href="https://github.com/Abdelrahmanhassan1/Web-Fundamentals/tree/main/Session%201%20-%20HTML/Yahoo2009%20Clone">pageclip server</a></li>
+<li><a href="https://github.com/Abdelrahmanhassan1/Web-Fundamentals/tree/main/Session2%20-%20HTML%20Forms/getform%20server%20Form">getform server</a></li>
+<li><a href="https://github.com/Abdelrahmanhassan1/Web-Fundamentals/tree/main/Session2%20-%20HTML%20Forms/pageclip%20server%20Form">pageclip server</a></li>
 </ul>
 </p>
