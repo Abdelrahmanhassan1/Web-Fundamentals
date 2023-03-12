@@ -23,3 +23,11 @@ The forms are created to hold user data and send it to the server.
 - Add the form action attribute after creating account in the form server
 
 - Add the form method attribute (POST)
+
+## Try it yourself:
+
+<a href="https://abdelrahmanha-form.netlify.app/"> Here </a>
+
+## Form Demo
+
+<img src="./docs/getform demo.gif" alt="getform demo" />
