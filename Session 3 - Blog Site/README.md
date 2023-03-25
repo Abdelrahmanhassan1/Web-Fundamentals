@@ -10,13 +10,13 @@ The blog is responsive and works on Pc and mobile phones.
 
 # Screenshots
 
-### Desktop
+### Mobile
 
 <hr />
 
 <img src="./docs/desktop.gif" alt="desktop" />
 
-### Mobile
+### Desktop
 
 <hr />
 
