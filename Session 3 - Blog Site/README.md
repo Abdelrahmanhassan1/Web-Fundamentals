@@ -10,10 +10,18 @@ The blog is responsive and works on Pc and mobile phones.
 
 # Screenshots
 
-> Desktop
+### Desktop
+
+<hr />
 
 <img src="./docs/desktop.gif" alt="desktop" />
 
-> Mobile
+### Mobile
+
+<hr />
 
 <img src="./docs/Mobile.gif" alt="mobile" />
+
+# Live Demo
+
+<a href="https://blog-site-abdelrahman.netlify.app/"> Live Demo </a>
